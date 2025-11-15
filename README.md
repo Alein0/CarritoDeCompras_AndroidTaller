@@ -1,1 +1,0 @@
-# CarritoDeCompras_AndroidTaller
